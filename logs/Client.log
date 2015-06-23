@@ -1,0 +1,9 @@
+2015-06-22 22:53:44,857 INFO [service.Client] Client started
+2015-06-22 22:53:46,886 INFO [process.ClientGUI] Opening client user interface
+2015-06-22 22:56:03,361 INFO [service.Client] Client started
+2015-06-22 22:56:03,943 INFO [process.ClientGUI] Opening client user interface
+2015-06-22 22:56:05,089 INFO [process.ClientGUI] Instantiating client socket with port 31190
+2015-06-22 22:56:05,099 INFO [process.ClientGUI] Successfully connected to server
+2015-06-22 22:56:11,258 INFO [process.ClientGUI] Sending tert to server
+2015-06-22 22:56:14,121 INFO [process.ClientGUI] Sending erterte to server
+2015-06-22 22:56:16,961 INFO [process.ClientGUI] Sending sdfsdf to server
